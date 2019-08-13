@@ -14,5 +14,8 @@ print ("variable varStr value and type is ", varStr, type(varStr))
 varFloat = 25.7777777777
 print ("variable varFloat value and type is ", varFloat, type(varFloat))
 
+varBool = True
+print ("variable varBool value and type is ", varBool, type(varBool))
+
 varA, varB = 15, 25
 print ("varA, varB ", varA, varB)
